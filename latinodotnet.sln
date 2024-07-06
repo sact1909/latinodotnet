@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "latinodotnet", "latinodotnet\latinodotnet.csproj", "{45A1CD3D-D7C4-4137-9DC8-25124C87406E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "latinodotnet.Test", "latinodotnet.Test\latinodotnet.Test.csproj", "{4F6EDC89-FD80-4193-AA02-36A5FE166A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A1CD3D-D7C4-4137-9DC8-25124C87406E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A1CD3D-D7C4-4137-9DC8-25124C87406E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A1CD3D-D7C4-4137-9DC8-25124C87406E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A1CD3D-D7C4-4137-9DC8-25124C87406E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6EDC89-FD80-4193-AA02-36A5FE166A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6EDC89-FD80-4193-AA02-36A5FE166A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6EDC89-FD80-4193-AA02-36A5FE166A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6EDC89-FD80-4193-AA02-36A5FE166A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F445CB-86E7-4057-B9AB-92E0C6EE6428}
+	EndGlobalSection
+EndGlobal
